@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15262" started-at="2019-08-30T01:15:28Z" finished-at="2019-08-30T01:15:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15262" started-at="2019-08-30T01:15:28Z" finished-at="2019-08-30T01:15:43Z">
+      <class name="com.guru99.keywordDrivenFramework.Guru99Test">
+        <test-method status="PASS" signature="testCasesForGuru99(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.guru99.keywordDrivenFramework.Guru99Test@68c4039c]" name="testCasesForGuru99" duration-ms="4" started-at="2019-08-30T01:15:34Z" data-provider="GURU99DATA" finished-at="2019-08-30T01:15:34Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+            <param index="3">
+              <value is-null="true"/>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value is-null="true"/>
+            </param>
+            <param index="6">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasesForGuru99 -->
+        <test-method status="PASS" signature="testCasesForGuru99(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.guru99.keywordDrivenFramework.Guru99Test@68c4039c]" name="testCasesForGuru99" duration-ms="3273" started-at="2019-08-30T01:15:34Z" data-provider="GURU99DATA" finished-at="2019-08-30T01:15:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TS001]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Lauch Application and open url]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[launchApp]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasesForGuru99 -->
+        <test-method status="PASS" signature="testCasesForGuru99(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.guru99.keywordDrivenFramework.Guru99Test@68c4039c]" name="testCasesForGuru99" duration-ms="815" started-at="2019-08-30T01:15:37Z" data-provider="GURU99DATA" finished-at="2019-08-30T01:15:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC002]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TS001]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Enter user id]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[fillText]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[txtUserId]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[mgr123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasesForGuru99 -->
+        <test-method status="PASS" signature="testCasesForGuru99(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.guru99.keywordDrivenFramework.Guru99Test@68c4039c]" name="testCasesForGuru99" duration-ms="208" started-at="2019-08-30T01:15:38Z" data-provider="GURU99DATA" finished-at="2019-08-30T01:15:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC002]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TS002]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Enter password]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[fillText]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[xpath]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[txtPassword]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[mgr!23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasesForGuru99 -->
+        <test-method status="PASS" signature="testCasesForGuru99(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.guru99.keywordDrivenFramework.Guru99Test@68c4039c]" name="testCasesForGuru99" duration-ms="2315" started-at="2019-08-30T01:15:38Z" data-provider="GURU99DATA" finished-at="2019-08-30T01:15:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC002]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TS003]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Click on Login]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[btnLogin]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasesForGuru99 -->
+        <test-method status="PASS" signature="testCasesForGuru99(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.guru99.keywordDrivenFramework.Guru99Test@68c4039c]" name="testCasesForGuru99" duration-ms="1249" started-at="2019-08-30T01:15:40Z" data-provider="GURU99DATA" finished-at="2019-08-30T01:15:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC003]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TS001]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[click on new customer link]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[linkText]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[newCustomerLink]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasesForGuru99 -->
+        <test-method status="PASS" signature="testCasesForGuru99(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.guru99.keywordDrivenFramework.Guru99Test@68c4039c]" name="testCasesForGuru99" duration-ms="321" started-at="2019-08-30T01:15:42Z" data-provider="GURU99DATA" finished-at="2019-08-30T01:15:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC004]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TS001]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[enter customer name]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[fillText]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[customerName]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Chandan Kumar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasesForGuru99 -->
+        <test-method status="PASS" signature="testCasesForGuru99(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.guru99.keywordDrivenFramework.Guru99Test@68c4039c]" name="testCasesForGuru99" duration-ms="151" started-at="2019-08-30T01:15:42Z" data-provider="GURU99DATA" finished-at="2019-08-30T01:15:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC004]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TS002]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[select gender male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[gender]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasesForGuru99 -->
+        <test-method status="PASS" signature="testCasesForGuru99(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.guru99.keywordDrivenFramework.Guru99Test@68c4039c]" name="testCasesForGuru99" duration-ms="224" started-at="2019-08-30T01:15:42Z" data-provider="GURU99DATA" finished-at="2019-08-30T01:15:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC004]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TS003]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[enter date of birth]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[fillText]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[id]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[dateOfBirth]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[10102000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasesForGuru99 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.guru99.keywordDrivenFramework.Guru99Test@68c4039c]" name="closeBrowser" is-config="true" duration-ms="821" started-at="2019-08-30T01:15:42Z" finished-at="2019-08-30T01:15:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.guru99.keywordDrivenFramework.Guru99Test -->
+      <class name="com.test.EmailValidatorTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.EmailValidatorTest@ae45eb6]" name="setUp" is-config="true" duration-ms="23" started-at="2019-08-30T01:15:28Z" finished-at="2019-08-30T01:15:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.keywordDrivenFramework.Guru99Test@68c4039c]" name="setUp" is-config="true" duration-ms="4909" started-at="2019-08-30T01:15:28Z" finished-at="2019-08-30T01:15:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="canTestInvalidEmailIIdWhenAtTheRateIsMissing()[pri:0, instance:com.test.EmailValidatorTest@ae45eb6]" name="canTestInvalidEmailIIdWhenAtTheRateIsMissing" duration-ms="4" started-at="2019-08-30T01:15:42Z" finished-at="2019-08-30T01:15:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- canTestInvalidEmailIIdWhenAtTheRateIsMissing -->
+        <test-method status="PASS" signature="canTestInvalidEmailIIdWhenDotIsMissing()[pri:0, instance:com.test.EmailValidatorTest@ae45eb6]" name="canTestInvalidEmailIIdWhenDotIsMissing" duration-ms="1" started-at="2019-08-30T01:15:42Z" finished-at="2019-08-30T01:15:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- canTestInvalidEmailIIdWhenDotIsMissing -->
+        <test-method status="PASS" signature="canTestValidEmailId()[pri:0, instance:com.test.EmailValidatorTest@ae45eb6]" name="canTestValidEmailId" duration-ms="2" started-at="2019-08-30T01:15:42Z" finished-at="2019-08-30T01:15:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- canTestValidEmailId -->
+      </class> <!-- com.test.EmailValidatorTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
