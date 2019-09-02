@@ -35,6 +35,10 @@ public class EmailValidatorTest {
 		boolean isValid=obj.validateEmail("chandan.krk@gmailco.m");
 		Assert.assertFalse(isValid);
 	}
-	
+	@Test
+	public void canTestInvalidEmailIIdWhenAfterDotOne1LetterAvailabe1() {
+		boolean isValid=obj.validateEmail("chandan.krk@gmailco.m");
+		Assert.assertFalse(isValid);
+	}
 	
 }
